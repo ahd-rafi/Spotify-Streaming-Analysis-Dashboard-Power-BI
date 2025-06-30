@@ -9,7 +9,7 @@ This interactive **Power BI dashboard** analyzes Spotify’s 2023 music streamin
 ## 📊 Dashboard Snapshot
 
 Explore the dashboard here:
-![Dashboard Preview](https://github.com/shreyashsupe/Dashboard-Projects/blob/main/Spotify%20Analysis/Dashboard.png)
+![Dashboard Preview](https://github.com/ahd-rafi/Spotify-Streaming-Analysis-Dashboard-Power-BI/blob/main/Dashboard.png)
 
 ---
 
